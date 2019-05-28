@@ -7,8 +7,6 @@ This is an advanced CSS and Sass project.
 
 ### Execution:
 1. Header 
-2. 
-3.
 
 
 ### Advanced CSS and Sass Concepts used:
