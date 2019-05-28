@@ -13,7 +13,7 @@ This is an advanced CSS and Sass project.
 1. Header
 	* clip path
 	* transform/translate
-	* animations 
+	* advanced animations 
 
 
 ### Final Product:
