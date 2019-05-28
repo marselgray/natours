@@ -1,4 +1,4 @@
-# natours
+# Natours
 
 This is an advanced CSS and Sass project.
 
@@ -15,6 +15,7 @@ This is an advanced CSS and Sass project.
 1. Header
 	* clip path
 	* transform/translate
+	* animations 
 
 
 ### Final Product:
