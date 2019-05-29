@@ -10,7 +10,10 @@ This is an advanced CSS and Sass project.
 
 
 ### Advanced CSS and Sass Concepts used:
-1. Header
+1. Overall
+	* rems 
+	
+2. Header
 	* clip path
 	* transform/translate
 	* advanced animations 
