@@ -26,3 +26,5 @@ This is an advanced CSS and Sass project.
 
 
 #### Future Developers:
+`npm install` 
+`npm run build to develop locally and watch for changes`
