@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing Page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marselgray/natours.git"
+  },
+  "author": "Marsel Gray",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/marselgray/natours/issues"
+  },
+  "homepage": "https://github.com/marselgray/natours#readme"
+}
