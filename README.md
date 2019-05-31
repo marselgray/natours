@@ -13,18 +13,20 @@ This is an advanced CSS and Sass project.
 ### Execution:
 1. Header 
 2. Grid System established
+3. About SEction
 
 
 ### Advanced CSS and Sass Concepts used:
 1. Overall
 	* rems 
-	* grid system
 	
 2. Header
 	* clip path
 	* transform/translate
 	* advanced animations 
 
+3. About Section
+	* grid system
 
 ### Final Product:
 
