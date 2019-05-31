@@ -2,7 +2,6 @@
 
 .row{
 	max-width: $grid-width;
-	background-color: #eee;
 	margin: 0 auto;
 
 	// this puts 80px of margin bottom on all rows except (not) 
@@ -17,7 +16,6 @@
 	// attribute to select ALL elements where class attribute starts with
 	// col-
 	[class^='col-']{
-		background-color: orangered;
 		float: left;
 
 		&:not(:last-child){
