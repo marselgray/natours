@@ -27,6 +27,7 @@ This is an advanced CSS and Sass project.
 
 3. About Section
 	* grid system
+	* image quality
 
 ### Final Product:
 
