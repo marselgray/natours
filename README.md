@@ -6,13 +6,19 @@ This is an advanced CSS and Sass project.
 1. BEM naming conventions 
 [Read More About BEM](http://getbem.com/naming/)
 
+2. 7-1 Scss Architecture
+
+3. Grid System
+
 ### Execution:
 1. Header 
+2. Grid System established
 
 
 ### Advanced CSS and Sass Concepts used:
 1. Overall
 	* rems 
+	* grid system
 	
 2. Header
 	* clip path
