@@ -29,6 +29,10 @@ This is an advanced CSS and Sass project.
 	* grid system
 	* image quality
 
+4. Features Section
+	* icon fonts
+	* direct child selector
+
 ### Final Product:
 
 <!-- ![](project.jpg) -->
