@@ -10,10 +10,14 @@ This is an advanced CSS and Sass project.
 
 3. Grid System
 
+4. Feature cards
+
 ### Execution:
 1. Header 
 2. Grid System established
-3. About SEction
+3. About Section
+4. Features Section
+5. Tour Section
 
 
 ### Advanced CSS and Sass Concepts used:
@@ -32,6 +36,8 @@ This is an advanced CSS and Sass project.
 4. Features Section
 	* icon fonts
 	* direct child selector
+
+5. Tour Section
 
 ### Final Product:
 
