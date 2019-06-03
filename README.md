@@ -12,12 +12,15 @@ This is an advanced CSS and Sass project.
 
 4. Feature cards
 
+5. HTML <video> element
+
 ### Execution:
 1. Header 
 2. Grid System established
 3. About Section
 4. Features Section
 5. Tour Section
+6. Stories Section
 
 
 ### Advanced CSS and Sass Concepts used:
@@ -38,6 +41,12 @@ This is an advanced CSS and Sass project.
 	* direct child selector
 
 5. Tour Section
+	* cards/ flip cards
+
+6. Stories Section 
+	* HTML <video> element
+	* filter images
+	* background video
 
 ### Final Product:
 
@@ -46,4 +55,7 @@ This is an advanced CSS and Sass project.
 
 #### Future Developers:
 `npm install` 
-`npm run build to develop locally and watch for changes`
+`live-server` to run live server
+`npm run build` to compile sass into css && watch for changes
+
+ENJOY!
