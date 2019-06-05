@@ -12,7 +12,11 @@ This is an advanced CSS and Sass project.
 
 4. Feature cards
 
-5. HTML <video> element
+5. HTML video element
+
+6. pseduo-elements
+
+7. General and adjacent sibling selectors
 
 ### Execution:
 1. Header 
@@ -21,6 +25,7 @@ This is an advanced CSS and Sass project.
 4. Features Section
 5. Tour Section
 6. Stories Section
+7. Booking Section
 
 
 ### Advanced CSS and Sass Concepts used:
@@ -44,9 +49,11 @@ This is an advanced CSS and Sass project.
 	* cards/ flip cards
 
 6. Stories Section 
-	* HTML <video> element
+	* HTML video element
 	* filter images
 	* background video
+
+7. Booking Section
 
 ### Final Product:
 
@@ -54,8 +61,8 @@ This is an advanced CSS and Sass project.
 
 
 #### Future Developers:
-`npm install` 
-`live-server` to run live server
-`npm run build` to compile sass into css && watch for changes
+`npm install`  <br />
+`live-server` to run live server <br />
+`npm run build` to compile sass into css && watch for changes <br />
 
 ENJOY!
