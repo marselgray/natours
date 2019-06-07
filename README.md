@@ -26,6 +26,7 @@ This is an advanced CSS and Sass project.
 5. Tour Section
 6. Stories Section
 7. Booking Section
+8. Footer Section
 
 
 ### Advanced CSS and Sass Concepts used:
@@ -54,6 +55,8 @@ This is an advanced CSS and Sass project.
 	* background video
 
 7. Booking Section
+
+8. Footer
 
 ### Final Product:
 
