@@ -18,6 +18,8 @@ This is an advanced CSS and Sass project.
 
 7. General and adjacent sibling selectors
 
+8. Top down approach and return to the top.
+
 ### Execution:
 1. Header 
 2. Grid System established
@@ -27,6 +29,7 @@ This is an advanced CSS and Sass project.
 6. Stories Section
 7. Booking Section
 8. Footer Section
+9. Navigation 
 
 
 ### Advanced CSS and Sass Concepts used:
@@ -58,14 +61,22 @@ This is an advanced CSS and Sass project.
 
 8. Footer
 
+9. Navigation
+	* checbox hack
+	* custom animations timing functions using cubic bezier curves
+	* solid color graidents
+
+
 ### Final Product:
 
 <!-- ![](project.jpg) -->
 
 
 #### Future Developers:
-`npm install`  <br />
-`live-server` to run live server <br />
-`npm run build` to compile sass into css && watch for changes <br />
+`npm install`
+
+`live-server` to run live server
+
+`npm run build` to compile sass into css && watch for changes
 
 ENJOY!
