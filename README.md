@@ -29,7 +29,8 @@ This is an advanced CSS and Sass project.
 6. Stories Section
 7. Booking Section
 8. Footer Section
-9. Navigation 
+9. Navigation
+10. Popup
 
 
 ### Advanced CSS and Sass Concepts used:
@@ -65,6 +66,10 @@ This is an advanced CSS and Sass project.
 	* checbox hack
 	* custom animations timing functions using cubic bezier curves
 	* solid color graidents
+
+10. CSS PopUP
+	* display: table cell
+	* target pseudo class
 
 
 ### Final Product:
