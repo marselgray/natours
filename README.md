@@ -70,6 +70,7 @@ This is an advanced CSS and Sass project.
 10. CSS PopUP
 	* display: table cell
 	* target pseudo class
+	* columns
 
 
 ### Final Product:
