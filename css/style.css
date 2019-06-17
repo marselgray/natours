@@ -1,3 +1,13 @@
+/*
+ MEDIA QUERY MANAGER
+ 0 - 600px		Phone
+ 600 - 900 		Tablet
+ 1200 - 1800	Desktops
+ 1800 + 		Big Screens
+ breakpoint argument choices:
+ small, medium, large
+ use EMs for media queries 
+*/
 /* animations for header */
 @keyframes moveInLeft {
   0% {
@@ -41,6 +51,12 @@ html {
 	changing it to percentage allow for people with poor or limited eye sight to have a better
 	experience when viewing website */
   font-size: 62.5%; }
+  @media (max-width: 56.25em) {
+    html {
+      font-size: 56.25%; } }
+  @media (min-width: 112.5em) {
+    html {
+      font-size: 75%; } }
 
 body {
   box-sizing: border-box; }

@@ -13,6 +13,14 @@ html{
 	changing it to percentage allow for people with poor or limited eye sight to have a better
 	experience when viewing website */
 	font-size: 62.5% ;
+
+	@include breakpoint(medium){
+		font-size: 56.25%;
+	}
+
+	@include breakpoint(xlarge){
+		font-size: 75%;
+	}
 }
 
 

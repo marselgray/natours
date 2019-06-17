@@ -12,3 +12,44 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
+
+
+
+
+
+/*
+ MEDIA QUERY MANAGER
+ 0 - 600px		Phone
+ 600 - 900 		Tablet
+ 1200 - 1800	Desktops
+ 1800 + 		Big Screens
+ breakpoint argument choices:
+ small, medium, large
+ use EMs for media queries 
+*/
+
+@mixin breakpoint($breakpoint) {
+	@if $breakpoint == small {
+		@media (max-width: 37.5em){
+			@content;
+		}
+	}
+
+	@if $breakpoint == medium {
+		@media (max-width: 56.25em){
+			@content;
+		}
+	}
+
+	@if $breakpoint == large {
+		@media (max-width: 75em){
+			@content;
+		}
+	}
+
+	@if $breakpoint == xlarge {
+		@media (min-width: 112.5em){
+			@content;
+		}
+	}
+}
