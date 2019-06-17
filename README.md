@@ -72,11 +72,29 @@ This is an advanced CSS and Sass project.
 	* target pseudo class
 	* columns
 
+### Responsive Design Notes
+**Desktop first vs Mobile first**
+Write CSS code for mobile vs desktop first. With desktop you write large and 
+srink. Mobile first is the reverse. As more and more users are on thier mobiles,
+mobile first is the better approach. You should always keep both mind as people will
+use both even if one is more heavily used than the other. 
+
+**Max Width and Min Width**
+Media queries dont add any importance or specificity to selectors so code order matters. Min widths are used with mobile first approach.
+
+**Breakpoints**
+The viewpoint width where the design should change.
+There are several practices to selecting breakpoints. One should consider 
+the different devices and how they could change in the future. The major ones being
+mobile, ipads, desktop. 
 
 ### Final Product:
 
-<!-- ![](project.jpg) -->
+**Desktop**
+<!-- ![](project-large.jpg) -->
 
+**Mobile**
+<!-- ![](project-small.jpg) -->
 
 #### Future Developers:
 `npm install`
