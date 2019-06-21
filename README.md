@@ -98,6 +98,6 @@ EMs and REMS are NOT affected by a base font style setting
 
 `live-server` to run live server
 
-`npm run build` to compile sass into css && watch for changes
+`npm start` to compile sass into css && watch for changes
 
 ENJOY!

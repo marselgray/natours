@@ -26,7 +26,12 @@
  breakpoint argument choices:
  small, medium, large
  use EMs for media queries 
-*/
+
+Order: base -> typgraphy -> general layout -> grid -> page layout ->
+	components
+ */
+
+
 
 @mixin breakpoint($breakpoint) {
 	@if $breakpoint == small {

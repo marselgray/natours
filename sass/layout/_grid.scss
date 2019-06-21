@@ -7,7 +7,16 @@
 	// this puts 80px of margin bottom on all rows except (not) 
 	// the last child (or last instance
 	&:not(:last-child){
-		margin-bottom: 80px;
+		margin-bottom: $gutter-vertical;
+
+		@include breakpoint(medium){
+			max-width: 50rem;
+			padding: 0 3rem;
+		}
+	}
+
+	@include breakpoint(medium){
+		margin-bottom: $gutter-vertical-small;
 	}
 
 	// includes clearfix mixin from mixin.scss
@@ -20,6 +29,14 @@
 
 		&:not(:last-child){
 			margin-right: $gutter-horizontal;
+			@include breakpoint(medium){
+				margin-right: 0;
+				margin-bottom: $gutter-vertical-small;
+			}
+		}
+
+		@include breakpoint(medium){
+			width: 100% !important;
 		}
 	}
 
