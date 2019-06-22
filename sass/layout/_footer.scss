@@ -11,6 +11,10 @@
 	&__logo-box{
 		text-align: center;
 		margin-bottom: 8rem;
+
+		@include breakpoint(medium){
+			margin-bottom: 6rem;
+		}
 	}
 
 	&__logo{

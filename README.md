@@ -85,6 +85,14 @@ the different devices and how they could change in the future. The major ones be
 mobile, ipads, desktop. 
 EMs and REMS are NOT affected by a base font style setting
 
+**Media Queries**
+Adjust styles based on viewport widths. States betweeen mobile, 
+tablet, and desktop views. 
+Mobile first vs. Desktop first. 
+
+**Responsive Images**
+
+
 ### Final Product:
 
 **Desktop**
