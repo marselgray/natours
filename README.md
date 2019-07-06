@@ -86,16 +86,20 @@ mobile, ipads, desktop.
 EMs and REMS are NOT affected by a base font style setting
 
 **Media Queries**
-Adjust styles based on viewport widths. States betweeen mobile, 
+Adjust styles based on viewport widths. States betweeen mobile,
 tablet, and desktop views. 
+
 Mobile first vs. Desktop first. 
 
 **Responsive Images**
 The goal of RIs is to serve the correct image size to the appropriate screen size.
 
 3 main use cases: 
+
 	resolution switching: decrease img resolution on smaller screens
+
 	density switching: half the image resolutions on @1x screen
+	
 	art direction: different image on smaller screens
 
 ### Final Product:
