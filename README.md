@@ -105,10 +105,10 @@ The goal of RIs is to serve the correct image size to the appropriate screen siz
 ### Final Product:
 
 **Desktop**
-<!-- ![](project-large.jpg) -->
+![](project-large.jpg)
 
 **Mobile**
-<!-- ![](project-small.jpg) -->
+![](project-small.jpg)
 
 #### Future Developers:
 `npm install`
