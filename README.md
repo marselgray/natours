@@ -105,9 +105,11 @@ The goal of RIs is to serve the correct image size to the appropriate screen siz
 ### Final Product:
 
 **Desktop**
+
 ![](project-large.jpg)
 
 **Mobile**
+
 ![](project-small.jpg)
 
 #### Future Developers:
